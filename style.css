@@ -40,7 +40,7 @@ h1{
     margin-top: 40px;
 }
 .mission{
-    width: 240px;
+    width: 400px;
     background-color:gainsboro ;
     border: 1px solid pink;
     border-radius: 10px;
@@ -49,16 +49,16 @@ h1{
     width: 100%;
 }
 .vision-tag{
-    width: 240px;
+    width: 400px;
     background-color: grey;
     border: 1px solid pink;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 .vision-tag img{
     width: 100%;
 }
 .golas-tag{
-    width: 240px;
+    width: 400px;
     background-color: pink;
     border: 1px solid pink;
     border-radius: 10px;
@@ -69,7 +69,7 @@ h1{
 .mission-vission-goal{
     display: flex;
     justify-content:space-around;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .development-sec{
     background-image: url(./images/pictures/dream-bg.png);
