@@ -1,0 +1,36 @@
+body{
+    font-family: 'Mochiy Pop One', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+ font-size: 50px;   
+}
+.orange-color{
+    color: orange;
+
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width:60%;
+    padding-left: 10%;
+}
+.anchor-tag{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(tomato, tomato);
+    color: white;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+.top-slice{
+    border-left: 5px solid;
+    border-image: linear-gradient(rgb(22, 22, 59), white);
+    border-image-slice: 1;
+}
