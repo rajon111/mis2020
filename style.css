@@ -47,3 +47,11 @@ h1{
 .bonus-part h1{
   text-align: center;
 }
+.foot{
+    background-color: black;
+    padding: 30px;
+    
+}
+.last-part{
+    text-align: center;
+}
