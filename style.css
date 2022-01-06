@@ -1,9 +1,13 @@
 body{
     font-family: 'Mochiy Pop One', sans-serif;
 font-family: 'Poppins', sans-serif;
+margin: 100px;
 }
 h1{
- font-size: 50px;   
+ font-size: 60px;   
+}
+h5{
+    font-size: 11px;
 }
 .orange-color{
     color: orange;
@@ -32,7 +36,7 @@ h1{
 }
 .top-slice{
     border-left: 5px solid;
-    border-image: linear-gradient(rgb(22, 22, 59), white);
+    border-image: linear-gradient(rgb(216, 92, 71), rgb(172, 91, 91));
     border-image-slice: 1;
 }
 .second-section{
@@ -86,8 +90,13 @@ h1{
 .foot{
     background-color: black;
     padding: 30px;
+    margin: 0;
     
 }
 .last-part{
     text-align: center;
+}
+.own-pic{
+    height: 40%;
+    border-radius: 40px;
 }
