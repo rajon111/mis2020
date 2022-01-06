@@ -11,6 +11,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 130px;
 }
 .half-width{
     width: 50%;
@@ -33,4 +34,8 @@ section{
     border-left: 5px solid;
     border-image: linear-gradient(rgb(22, 22, 59), white);
     border-image-slice: 1;
+}
+.development-sec{
+    background-image: url(./images/pictures/dream-bg.png);
+    background-repeat: no-repeat;
 }
