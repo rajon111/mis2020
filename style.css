@@ -9,7 +9,7 @@ h1{
     color: orange;
 
 }
-section{
+.flex-contain{
     display: flex;
     margin-bottom: 130px;
 }
@@ -43,4 +43,7 @@ section{
     background-image:url(./images/pictures/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.bonus-part h1{
+  text-align: center;
 }
