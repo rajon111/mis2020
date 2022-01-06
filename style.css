@@ -78,6 +78,7 @@ h5{
 .development-sec{
     background-image: url(./images/pictures/dream-bg.png);
     background-repeat: no-repeat;
+    
 }
 .global-comm{
     background-image:url(./images/pictures/dream-bg.png);
@@ -87,16 +88,11 @@ h5{
 .bonus-part h1{
   text-align: center;
 }
-.foot{
-    background-color: black;
-    padding: 30px;
-    margin: 0;
-    
-}
-.last-part{
+footer{
+    background:black;
+    color:white;
     text-align: center;
-}
-.own-pic{
-    height: 40%;
-    border-radius: 40px;
+    padding:20px;
+    margin-top: 30px;
+    width: 100%;
 }
